@@ -1,0 +1,4 @@
+sources:
+  - name: football
+    tables:
+      - name: raw_players

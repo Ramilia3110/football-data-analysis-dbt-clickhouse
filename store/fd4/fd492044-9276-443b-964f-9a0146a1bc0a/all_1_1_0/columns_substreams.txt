@@ -1,0 +1,37 @@
+columns substreams version: 1
+17 columns:
+2 substreams for column `idx`:
+	idx.sparse.idx
+	idx
+1 substreams for column `name`:
+	name
+1 substreams for column `full_name`:
+	full_name
+1 substreams for column `age`:
+	age
+1 substreams for column `height`:
+	height
+1 substreams for column `nationality`:
+	nationality
+1 substreams for column `place_of_birth`:
+	place_of_birth
+1 substreams for column `price`:
+	price
+1 substreams for column `max_price`:
+	max_price
+1 substreams for column `position`:
+	position
+1 substreams for column `shirt_nr`:
+	shirt_nr
+1 substreams for column `foot`:
+	foot
+1 substreams for column `club`:
+	club
+1 substreams for column `contract_expires`:
+	contract_expires
+1 substreams for column `joined_club`:
+	joined_club
+1 substreams for column `player_agent`:
+	player_agent
+1 substreams for column `outfitter`:
+	outfitter

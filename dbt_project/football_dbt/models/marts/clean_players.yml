@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: clean_players
+    description: "Cleaned and ready Bundesliga players table"
+    columns:
+      - name: player_id
+        tests:
+          - unique
+          - not_null
+      - name: name
+        tests:
+          - not_null
+      - name: age
+        tests:
+          - not_null
+      - name: price
+        tests:
+          - not_null
+      - name: height
+        tests:
+          - not_null

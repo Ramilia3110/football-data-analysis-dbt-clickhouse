@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore ClickHouse data
+db/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+
+*.log
