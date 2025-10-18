@@ -1,0 +1,99 @@
+name,position,price,avg_position_price
+Randal Kolo Muani,Attack - Centre-Forward,65.0,7.57123287671233
+Marcus Thuram,Attack - Centre-Forward,32.0,7.57123287671233
+Youssoufa Moukoko,Attack - Centre-Forward,30.0,7.57123287671233
+Sébastien Haller,Attack - Centre-Forward,30.0,7.57123287671233
+Patrik Schick,Attack - Centre-Forward,30.0,7.57123287671233
+Timo Werner,Attack - Centre-Forward,25.0,7.57123287671233
+André Silva,Attack - Centre-Forward,20.0,7.57123287671233
+Mathys Tel,Attack - Centre-Forward,20.0,7.57123287671233
+Adam Hlozek,Attack - Centre-Forward,15.0,7.57123287671233
+Lukas Nmecha,Attack - Centre-Forward,14.0,7.57123287671233
+Jonas Wind,Attack - Centre-Forward,14.0,7.57123287671233
+Niclas Füllkrug,Attack - Centre-Forward,13.0,7.57123287671233
+Mergim Berisha,Attack - Centre-Forward,12.0,7.57123287671233
+Jonathan Burkardt,Attack - Centre-Forward,12.0,7.57123287671233
+Sardar Azmoun,Attack - Centre-Forward,12.0,7.57123287671233
+Rafael Borré,Attack - Centre-Forward,12.0,7.57123287671233
+Ermedin Demirovic,Attack - Centre-Forward,12.0,7.57123287671233
+Kingsley Coman,Attack - Left Winger,65.0,12.218181818181819
+Sadio Mané,Attack - Left Winger,45.0,12.218181818181819
+Karim Adeyemi,Attack - Left Winger,35.0,12.218181818181819
+Leroy Sané,Attack - Right Winger,70.0,10.865000000000002
+Serge Gnabry,Attack - Right Winger,55.0,10.865000000000002
+Moussa Diaby,Attack - Right Winger,50.0,10.865000000000002
+Christopher Nkunku,Attack - Second Striker,80.0,17.928571428571427
+Matthijs de Ligt,Defender - Centre-Back,75.0,10.206818181818182
+Josko Gvardiol,Defender - Centre-Back,75.0,10.206818181818182
+Dayot Upamecano,Defender - Centre-Back,60.0,10.206818181818182
+Lucas Hernández,Defender - Centre-Back,50.0,10.206818181818182
+Nico Schlotterbeck,Defender - Centre-Back,40.0,10.206818181818182
+Niklas Süle,Defender - Centre-Back,35.0,10.206818181818182
+Evan Ndicka,Defender - Centre-Back,32.0,10.206818181818182
+Edmond Tapsoba,Defender - Centre-Back,30.0,10.206818181818182
+Mohamed Simakan,Defender - Centre-Back,28.0,10.206818181818182
+Piero Hincapié,Defender - Centre-Back,25.0,10.206818181818182
+Philipp Lienhart,Defender - Centre-Back,20.0,10.206818181818182
+Odilon Kossounou,Defender - Centre-Back,20.0,10.206818181818182
+Jonathan Tah,Defender - Centre-Back,20.0,10.206818181818182
+Maxence Lacroix,Defender - Centre-Back,20.0,10.206818181818182
+Nico Elvedi,Defender - Centre-Back,20.0,10.206818181818182
+Matthias Ginter,Defender - Centre-Back,20.0,10.206818181818182
+Micky van de Ven,Defender - Centre-Back,18.0,10.206818181818182
+Alphonso Davies,Defender - Left-Back,70.0,6.977500000000001
+David Raum,Defender - Left-Back,20.0,6.977500000000001
+Ramy Bensebaini,Defender - Left-Back,20.0,6.977500000000001
+Raphaël Guerreiro,Defender - Left-Back,20.0,6.977500000000001
+Borna Sosa,Defender - Left-Back,15.0,6.977500000000001
+Angeliño,Defender - Left-Back,14.0,6.977500000000001
+João Cancelo,Defender - Right-Back,60.0,7.721590909090907
+Benjamin Pavard,Defender - Right-Back,35.0,7.721590909090907
+Jeremie Frimpong,Defender - Right-Back,35.0,7.721590909090907
+Noussair Mazraoui,Defender - Right-Back,28.0,7.721590909090907
+Benjamin Henrichs,Defender - Right-Back,15.0,7.721590909090907
+Ridle Baku,Defender - Right-Back,13.0,7.721590909090907
+Kiliann Sildillia,Defender - Right-Back,12.0,7.721590909090907
+Josip Stanisic,Defender - Right-Back,12.0,7.721590909090907
+Lukas Klostermann,Defender - Right-Back,12.0,7.721590909090907
+Joe Scally,Defender - Right-Back,12.0,7.721590909090907
+Gregor Kobel,Goalkeeper,35.0,2.0858695652173913
+Kevin Trapp,Goalkeeper,8.5,2.0858695652173913
+Koen Casteels,Goalkeeper,8.0,2.0858695652173913
+Jonas Omlin,Goalkeeper,7.0,2.0858695652173913
+Mark Flekken,Goalkeeper,7.0,2.0858695652173913
+Manuel Neuer,Goalkeeper,7.0,2.0858695652173913
+Péter Gulácsi,Goalkeeper,6.0,2.0858695652173913
+Yann Sommer,Goalkeeper,5.0,2.0858695652173913
+Robin Zentner,Goalkeeper,5.0,2.0858695652173913
+Marvin Schwäbe,Goalkeeper,5.0,2.0858695652173913
+Oliver Baumann,Goalkeeper,4.5,2.0858695652173913
+Oliver Christensen,Goalkeeper,4.5,2.0858695652173913
+Frederik Rönnow,Goalkeeper,3.5,2.0858695652173913
+Jamal Musiala,midfield - Attacking Midfield,110.0,13.072500000000002
+Florian Wirtz,midfield - Attacking Midfield,85.0,13.072500000000002
+Dani Olmo,midfield - Attacking Midfield,40.0,13.072500000000002
+Julian Brandt,midfield - Attacking Midfield,40.0,13.072500000000002
+Dominik Szoboszlai,midfield - Attacking Midfield,40.0,13.072500000000002
+Daichi Kamada,midfield - Attacking Midfield,30.0,13.072500000000002
+Jesper Lindström,midfield - Attacking Midfield,28.0,13.072500000000002
+Giovanni Reyna,midfield - Attacking Midfield,28.0,13.072500000000002
+Christoph Baumgartner,midfield - Attacking Midfield,20.0,13.072500000000002
+Jude Bellingham,midfield - Central Midfield,120.0,10.083928571428572
+Leon Goretzka,midfield - Central Midfield,65.0,10.083928571428572
+Ryan Gravenberch,midfield - Central Midfield,30.0,10.083928571428572
+Manu Koné,midfield - Central Midfield,30.0,10.083928571428572
+Konrad Laimer,midfield - Central Midfield,28.0,10.083928571428572
+Djibril Sow,midfield - Central Midfield,22.0,10.083928571428572
+Xaver Schlager,midfield - Central Midfield,22.0,10.083928571428572
+Maximilian Arnold,midfield - Central Midfield,17.0,10.083928571428572
+Amadou Haidara,midfield - Central Midfield,17.0,10.083928571428572
+Joshua Kimmich,midfield - Defensive Midfield,80.0,6.995
+Salih Özcan,midfield - Defensive Midfield,17.0,6.995
+Julian Weigl,midfield - Defensive Midfield,15.0,6.995
+Anton Stach,midfield - Defensive Midfield,15.0,6.995
+Emre Can,midfield - Defensive Midfield,14.0,6.995
+Ellyes Skhiri,midfield - Defensive Midfield,13.0,6.995
+Robert Andrich,midfield - Defensive Midfield,11.0,6.995
+Lucas Tousart,midfield - Defensive Midfield,11.0,6.995
+Robert Skov,midfield - Right Midfield,9.0,4.525
+Junior Dina Ebimbe,midfield - Right Midfield,7.5,4.525

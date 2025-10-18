@@ -1,0 +1,14 @@
+position,total_players,players_without_sponsorship,percentage_without_sponsorship
+midfield - Left Midfield,2,2,100.0
+midfield - Right Midfield,4,4,100.0
+midfield - Defensive Midfield,40,33,82.5
+Defender - Left-Back,40,28,70.0
+Goalkeeper,69,47,68.12
+Defender - Right-Back,44,27,61.36
+Defender - Centre-Back,88,54,61.36
+Attack - Centre-Forward,73,44,60.27
+midfield - Central Midfield,56,33,58.93
+Attack - Second Striker,7,4,57.14
+midfield - Attacking Midfield,40,22,55.0
+Attack - Right Winger,30,14,46.67
+Attack - Left Winger,22,10,45.45

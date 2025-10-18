@@ -14,3 +14,15 @@ __pycache__/
 
 
 *.log
+# .gitignore
+
+# dbt-specific files that should NEVER be committed
+target/
+logs/
+dbt_packages/
+profiles.yml
+.DS_Store
+
+# Custom Files to Ignore
+# 1. Hide the script containing database login details
+export_data.py
